@@ -1,0 +1,6 @@
+{
+    "site_title": "Sistema Corporativo Seguro",
+    "maintenance_mode": false,
+    "max_login_attempts": 3,
+    "admin_email": "admin@empresa.com"
+}

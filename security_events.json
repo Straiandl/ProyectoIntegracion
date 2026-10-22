@@ -1,0 +1,30 @@
+[
+    {
+        "timestamp": "2026-10-10T09:35:56.277257",
+        "ip_origen": "127.0.0.1",
+        "tipo": "Intento de Inyecci\u00f3n / Payload Sospechoso",
+        "payload_detectado": "' OR '1'='1 ' OR '1'='1",
+        "accion": "Peticion bloqueada y registrada"
+    },
+    {
+        "timestamp": "2026-10-10T09:41:43.782666",
+        "ip_origen": "127.0.0.1",
+        "tipo": "Intento de Inyecci\u00f3n / Payload Sospechoso",
+        "payload_detectado": "' OR '1'='1 ' OR '1'='1",
+        "accion": "Peticion bloqueada y registrada"
+    },
+    {
+        "timestamp": "2026-10-22T14:25:00.335055",
+        "ip_origen": "127.0.0.1",
+        "tipo": "Intento de Inyecci\u00f3n / Payload Sospechoso",
+        "payload_detectado": "' OR '1'='1 ' OR '1'='1",
+        "accion": "Peticion bloqueada y registrada"
+    },
+    {
+        "timestamp": "2026-10-22T14:25:29.296991",
+        "ip_origen": "127.0.0.1",
+        "tipo": "Intento de Inyecci\u00f3n / Payload Sospechoso",
+        "payload_detectado": "' OR '1'='1 ' OR '1'='1",
+        "accion": "Peticion bloqueada y registrada"
+    }
+]
