@@ -121,4 +121,4 @@ py -m pip install flask requests mcp
    * En la consola de Python verás el mensaje: `🚀 ¡Alerta enviada exitosamente a n8n!`.
    * En n8n verás la ejecución fluir desde el Webhook hasta el AI Agent.
    * Revisa tu bandeja de correo de Gmail para confirmar la recepción del informe de inteligencia de amenazas.
-   !([ruta_o_url_de_la_imagen](https://github.com/Straiandl/ProyectoIntegracion/blob/3c725220ffbf7602da3bc138a98e849495e61bd4/gmail.png))
+![gmail](https://github.com/Straiandl/ProyectoIntegracion/blob/3c725220ffbf7602da3bc138a98e849495e61bd4/gmail.png)
