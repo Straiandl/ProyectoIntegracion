@@ -116,6 +116,7 @@ py -m pip install flask requests mcp
    Abre un navegador web e ingresa a `http://127.0.0.1:5000`. En el formulario de inicio de sesión ingresa:
    * **Usuario**: `' OR '1'='1`
    * **Contraseña**: `1234`
+  ![web](https://github.com/Straiandl/ProyectoIntegracion/blob/fb813466063f158d7eda9a577d49168bce9460ee/web.png)
 
 4. **Verificación**:
    * En la consola de Python verás el mensaje: `🚀 ¡Alerta enviada exitosamente a n8n!`.
